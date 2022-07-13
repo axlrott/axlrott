@@ -2,6 +2,10 @@
   <img align="center" alt="waving" width="400" src="https://c.tenor.com/b4YzfTiBP7MAAAAC/bye-bye-pokemon.gif">
 </p>
 
+<p align = "center">
+ <img src="https://komarev.com/ghpvc/?username=axlrott&color=blueviolet">
+</p> 
+
 
 <h2 align="left">Technology Stack: </h2>
 
