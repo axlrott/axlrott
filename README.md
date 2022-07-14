@@ -3,7 +3,9 @@
 </p>
 
 <p align="center">
-  <img align="center" alt="waving" width="400" src="https://c.tenor.com/b4YzfTiBP7MAAAAC/bye-bye-pokemon.gif">
+  <kbd>
+    <img align="center" alt="waving" width="400" src="https://c.tenor.com/b4YzfTiBP7MAAAAC/bye-bye-pokemon.gif">
+  </kbd>
 </p>
 
 <p align = "center">
