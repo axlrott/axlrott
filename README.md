@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://www.pngkey.com/png/full/33-333487_welcome-graphic-design.png">
+</p>
+
+<p align="center">
   <img align="center" alt="waving" width="400" src="https://c.tenor.com/b4YzfTiBP7MAAAAC/bye-bye-pokemon.gif">
 </p>
 
