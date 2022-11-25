@@ -57,5 +57,9 @@
 </p> 
 
 <p align = "left">
- <img src="http://ForTheBadge.com/images/badges/powered-by-electricity.svg">
+ <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg">
 </p> 
+<p align = "left">
+ <img src="https://forthebadge.com/images/badges/it-works-why.svg">
+</p> 
+
