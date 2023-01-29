@@ -52,9 +52,7 @@
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=axlrott&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0" />
 </p> 
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=axlrott&theme=react-dark">
-</p> 
+[![AxlRott's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=axlrott&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align = "left">
  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg">
