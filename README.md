@@ -45,7 +45,7 @@
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=axlrott&count_private=true&show_icons=true&theme=dark&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=axlrott&theme=dark">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=axlrott&count_private=true&theme=dark">
 </p>
 
 <p align = "center">
