@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.pngkey.com/png/full/33-333487_welcome-graphic-design.png">
+  <img src="https://github.com/axlrott/axlrott/blob/main/assets/welcome-profile.png">
 </p>
 
 <p align="center">
@@ -54,10 +54,4 @@
 
 [![AxlRott's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=axlrott&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align = "left">
- <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg">
-</p> 
-<p align = "left">
- <img src="https://forthebadge.com/images/badges/it-works-why.svg">
-</p> 
-
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
