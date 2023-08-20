@@ -4,7 +4,7 @@
 
 <p align="center">
   <kbd>
-    <img align="center" alt="waving" width="400" src="https://c.tenor.com/b4YzfTiBP7MAAAAC/bye-bye-pokemon.gif">
+    <img align="center" alt="waving" width="400" src="https://github.com/axlrott/axlrott/blob/main/assets/hello-pikachu.gif">
   </kbd>
 </p>
 
