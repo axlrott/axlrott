@@ -54,4 +54,3 @@
 
 [![AxlRott's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=axlrott&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
